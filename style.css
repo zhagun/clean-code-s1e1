@@ -13,7 +13,7 @@ body {
 .header-wrap img {
   width: 100%;
 }
-.header-wrap .more-inf {
+.header-wrap .header-link {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
   .header-wrap { text-align: center;
   }
 }
-.centered-main-page-element {
+.main-wrap {
   display: block;
   width: 500px;
   margin: 0 auto 0;
