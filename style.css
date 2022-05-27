@@ -18,8 +18,10 @@
 }
 
 @media (max-width:768px) {
+
   .header-wrap { text-align: center;
   }
+
 }
 .main-wrap {
   display: block;
