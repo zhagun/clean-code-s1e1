@@ -34,7 +34,8 @@
   margin: 0 auto 0;
 }
 
-.task-label, .task-description {
+.task-label, 
+.task-description {
   width: 56%;
   display: inline-block;
   flex-grow: 1;
@@ -53,7 +54,9 @@
   list-style: none;
 }
 
-.task-check, .task-description, .button {
+.task-check, 
+.task-description, 
+.button {
   outline: none;
 }
 
